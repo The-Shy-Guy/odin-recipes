@@ -1,0 +1,1 @@
+This is my first project working through the Odin Project. I will be setting up a basic HTML, css-less recipe website. To achieve this, I will need a foundational understanding of; HTML for the website, and Git workflow and GitHub for my pfoject portfolio.
